@@ -3,9 +3,7 @@
 Clone simples do Flappy Bird feito em **Python + Pygame**.  
 Renderização por sprites, canos gerados aleatoriamente e chão com rolagem contínua.
 
-![screenshot](docs/screenshot.png) <!-- opcional -->
-
----
+--
 
 ## 🚀 Recursos
 - Loop de jogo em **30 FPS** (`clock.tick(30)`).
